@@ -38,7 +38,9 @@ Transitioned from manual installation to **Infrastructure as Code (IaC)**. This 
 #### 📸 Infrastructure Verification (Lab 2):
 
 ##### Active Virtual Machines in VirtualBox:
-*(Провлачете и пуснете тук първия си скрийншот на VirtualBox с работещите машини)*
+<img width="1242" height="805" alt="Screenshot 2026-09-15 013555" src="https://github.com/user-attachments/assets/15be7b15-7c5e-46ec-8478-be7f576cd9b4" />
+
 
 ##### SSH Access via Git Bash Terminal:
-*(Провлачете и пуснете тук втория си скрийншот на Git Bash терминала)*
+<img width="1477" height="761" alt="Screenshot 2026-09-15 013619" src="https://github.com/user-attachments/assets/281cc646-f71d-452e-99ce-50372d17c050" />
+
