@@ -1,3 +1,4 @@
+<img width="997" height="745" alt="Screenshot 2026-09-15 093416" src="https://github.com/user-attachments/assets/57f3c1ad-6309-4861-8cea-25c1648f502c" />
 # 🔬 DevOps Sandbox
 
 Welcome to my DevOps engineering sandbox! This repository serves as a practical laboratory for testing infrastructure automation, configuration management, containerization, and modern operational workflows.
